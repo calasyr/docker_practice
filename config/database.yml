@@ -49,6 +49,6 @@ test:
 #
 production:
   <<: *default
-  database: practice_production
-  username: practice
+  database: aa704iwiba7qip.cd5dmkegl5mn.us-west-2.rds.amazonaws.com
+  username: root
   password: <%= ENV['PRACTICE_DATABASE_PASSWORD'] %>
