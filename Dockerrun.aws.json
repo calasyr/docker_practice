@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "docker_practice",
+    "Name": "calasyr/docker_practice",
     "Update": "true"
   },
   "Ports": [
